@@ -13,9 +13,9 @@ Compile this bit of code against your sqlite3 headers and libs to figure out you
 
 # usage
 
-Designed to compare apple provides sqlite with homebrew installed sqlite.
+Designed to compare apple provided sqlite with homebrew installed sqlite.
 
-Modify the make files with custom -I and -L paths to get details for other installs
+Modify the flags in the Makefile with custom -I and -L paths to get details for other installs.
 
 Build this program like:
 
